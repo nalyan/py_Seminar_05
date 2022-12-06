@@ -1,0 +1,3 @@
+data: fffffffhhhhAAAAhhjkkkff
+compress: 7f4h4A2h1j3k2f
+decompress: fffffffhhhhAAAAhhjkkkff
